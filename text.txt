@@ -1,0 +1,31 @@
+hozei-pcs/
+├── app/
+├── bootstrap/
+├── config/
+├── database/
+├── public/
+│   ├── css/
+│   │   └── styles.css
+│   ├── images/
+│   │   └── logo-removebg-preview.png
+│   ├── js/
+│   │   ├── scripts.js
+│   │   └── cart.js
+│   └── index.php
+├── resources/
+│   ├── views/
+│   │   ├── layouts/
+│   │   │   └── app.blade.php
+│   │   ├── welcome.blade.php
+│   │   └── cart.blade.php
+├── routes/
+│   └── web.php
+├── storage/
+├── tests/
+├── vendor/
+├── .env
+├── artisan
+├── composer.json
+├── package.json
+├── phpunit.xml
+└── README.md
